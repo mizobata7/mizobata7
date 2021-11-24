@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mizobata7
+- 👀 I’m interested in Programing Language, Front-end and Data Science
+- 🌱 I’m currently learning Programing Language, Front-end and Data Science
+- 📫 How to reach me @w_mizobata (twitter)
